@@ -8,3 +8,4 @@ Step that is taken placed in this project :
 5)The image will be with some deviation so we have to apply convex hull and the find the tip of finger. Even this has some deviation to avoid this we use convexity defect which finds the deepest point of deviation on the hull points.
 6) The final step to identify the gesture is to compare the captured image with the register gestured.
 
+ 
